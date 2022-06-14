@@ -1,0 +1,3 @@
+[submodule "deps/OFQT"]
+	path = deps/OFQT
+	url = https://github.com/jan200101/OFQT
